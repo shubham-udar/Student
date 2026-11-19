@@ -9,6 +9,11 @@ public class Student {
 	private float marks;
 	
 	
+	public void demo()
+	{
+		System.out.println("Demo");
+	}
+
 	public void setId(int id)
 	{
 		this.id = id;
